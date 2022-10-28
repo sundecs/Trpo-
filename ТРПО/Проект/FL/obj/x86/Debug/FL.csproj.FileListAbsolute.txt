@@ -1,0 +1,24 @@
+C:\Users\Nick\documents\visual studio 2010\Projects\FL\FL\bin\Debug\FL.exe
+C:\Users\Nick\documents\visual studio 2010\Projects\FL\FL\bin\Debug\FL.pdb
+C:\Users\Nick\documents\visual studio 2010\Projects\FL\FL\obj\x86\Debug\FL.Form1.resources
+C:\Users\Nick\documents\visual studio 2010\Projects\FL\FL\obj\x86\Debug\FL.Properties.Resources.resources
+C:\Users\Nick\documents\visual studio 2010\Projects\FL\FL\obj\x86\Debug\FL.csproj.GenerateResource.Cache
+C:\Users\Nick\documents\visual studio 2010\Projects\FL\FL\obj\x86\Debug\FL.exe
+C:\Users\Nick\documents\visual studio 2010\Projects\FL\FL\obj\x86\Debug\FL.pdb
+C:\Users\Nick\documents\visual studio 2010\Projects\FL\FL\obj\x86\Debug\FL.csprojResolveAssemblyReference.cache
+C:\Users\Nick\documents\visual studio 2010\Projects\FL\FL\obj\x86\Debug\FL.Form2.resources
+C:\Users\Millionaire\Documents\Visual Studio 2010\Projects\FL\FL\obj\x86\Debug\FL.exe
+C:\Users\Millionaire\Documents\Visual Studio 2010\Projects\FL\FL\obj\x86\Debug\FL.pdb
+C:\Users\Millionaire\Documents\Visual Studio 2010\Projects\FL\FL\bin\Debug\FL.exe
+C:\Users\Millionaire\Documents\Visual Studio 2010\Projects\FL\FL\bin\Debug\FL.pdb
+C:\Users\Millionaire\Documents\Visual Studio 2010\Projects\FL\FL\obj\x86\Debug\FL.csprojResolveAssemblyReference.cache
+C:\Users\Millionaire\Documents\Visual Studio 2010\Projects\FL\FL\obj\x86\Debug\FL.Form1.resources
+C:\Users\Millionaire\Documents\Visual Studio 2010\Projects\FL\FL\obj\x86\Debug\FL.Form2.resources
+C:\Users\Millionaire\Documents\Visual Studio 2010\Projects\FL\FL\obj\x86\Debug\FL.Properties.Resources.resources
+C:\Users\Millionaire\Documents\Visual Studio 2010\Projects\FL\FL\obj\x86\Debug\FL.csproj.GenerateResource.Cache
+C:\Users\Millionaire\Documents\Visual Studio 2010\Projects\FL\FL\obj\x86\Debug\FL.Form3.resources
+C:\Users\Millionaire\Documents\Visual Studio 2010\Projects\FL\FL\obj\x86\Debug\FL.Form4.resources
+D:\СибГУТИ\Study\Semester 5\Технология разработки программного обеспечения\На проверку\Контрольная работа\FL\FL\obj\x86\Debug\FL.exe
+D:\СибГУТИ\Study\Semester 5\Технология разработки программного обеспечения\На проверку\Контрольная работа\FL\FL\obj\x86\Debug\FL.pdb
+C:\Users\Admin\Desktop\Программное обеспечение\6 семестр\Технология разработки ПО\Контрольная работа\Каталог\FL\obj\x86\Debug\FL.exe
+C:\Users\Admin\Desktop\Программное обеспечение\6 семестр\Технология разработки ПО\Контрольная работа\Каталог\FL\obj\x86\Debug\FL.pdb

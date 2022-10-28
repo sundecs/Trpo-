@@ -1,0 +1,7 @@
+C:\Users\Nick\documents\visual studio 2010\Projects\FL\FL\bin\Release\FL.exe
+C:\Users\Nick\documents\visual studio 2010\Projects\FL\FL\bin\Release\FL.pdb
+C:\Users\Nick\documents\visual studio 2010\Projects\FL\FL\obj\x86\Release\FL.Form1.resources
+C:\Users\Nick\documents\visual studio 2010\Projects\FL\FL\obj\x86\Release\FL.Properties.Resources.resources
+C:\Users\Nick\documents\visual studio 2010\Projects\FL\FL\obj\x86\Release\FL.csproj.GenerateResource.Cache
+C:\Users\Nick\documents\visual studio 2010\Projects\FL\FL\obj\x86\Release\FL.exe
+C:\Users\Nick\documents\visual studio 2010\Projects\FL\FL\obj\x86\Release\FL.pdb
